@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "reto-de"
+version = "0.1.0"
+description = ""
+authors = ["Francisco Romero <fraroco@gmail.com>"]
+readme = "README.md"
+packages = [{include = "reto_de"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.28.1"
+pandas = "^1.4.4"
+python-crontab = "^2.6.0"
+logging = "^0.4.9.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

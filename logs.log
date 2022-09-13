@@ -1,0 +1,6 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): smn.conagua.gob.mx:443
+DEBUG:urllib3.connectionpool:https://smn.conagua.gob.mx:443 "GET /webservices/?method=3 HTTP/1.1" 200 9874266
+INFO:root:The service is responding
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): smn.conagua.gob.mx:443
+DEBUG:urllib3.connectionpool:https://smn.conagua.gob.mx:443 "GET /webservices/?method=3 HTTP/1.1" 200 9874266
+INFO:root:The service is responding
